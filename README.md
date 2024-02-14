@@ -1,1 +1,1 @@
-# Data-analyst_ssignments
+# Data-analyst_assignments
